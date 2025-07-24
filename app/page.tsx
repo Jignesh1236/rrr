@@ -43,7 +43,7 @@ const translations = {
     followUs: "Follow Us",
     allRightsReserved: "All rights reserved.",
     loading: "Loading...",
-    jansevakendra: "Jan Seva Kendra Private",
+    jansevakendra: "Janseva Kendra (Private)",
     toggleChat: "Toggle Chat",
     whyChooseUs: "Why Choose Us?",
     experienceExcellence: "Experience excellence in every service we provide",
