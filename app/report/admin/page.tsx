@@ -40,6 +40,7 @@ interface Report {
   mgvcl: any[];
   expences: any[];
   onlinePayment: any[];
+  cash?: number;
   totals: any;
   timestamp: string;
   lastModified?: string;
